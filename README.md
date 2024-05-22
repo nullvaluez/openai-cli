@@ -11,10 +11,10 @@ This CLI tool allows you to send a prompt to OpenAI's GPT-4 model and receive a 
 ## Installation
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/chatgpt-cli-tool.git
-   cd chatgpt-cli-tool
-   ```
+```sh
+git clone https://github.com/yourusername/chatgpt-cli-tool.git
+cd chatgpt-cli-tool
+```
 2.) Install the required dependencies:
    ```sh
    npm install
